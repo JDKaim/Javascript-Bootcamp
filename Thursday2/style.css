@@ -1,0 +1,10 @@
+.heading {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.paragraph {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 25px;
+    font-variant: small-caps;
+}
